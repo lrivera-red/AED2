@@ -6,6 +6,7 @@
 #include <chrono>
 #include <algorithm>
 #include <iomanip>
+#include <random>
 
 // -----------------------------------------------------------------------------
 // ALGORITMOS DE BUSCA
